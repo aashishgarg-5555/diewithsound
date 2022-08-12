@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/diewithsound/static/css/main.f5a825ce.css",
-    "main.js": "/diewithsound/static/js/main.bf7082b8.js",
+    "main.js": "/diewithsound/static/js/main.030a196b.js",
     "static/js/787.a735e30e.chunk.js": "/diewithsound/static/js/787.a735e30e.chunk.js",
+    "static/media/rattle.mp3": "/diewithsound/static/media/rattle.a67e49588b915b5559bc.mp3",
     "index.html": "/diewithsound/index.html",
     "main.f5a825ce.css.map": "/diewithsound/static/css/main.f5a825ce.css.map",
-    "main.bf7082b8.js.map": "/diewithsound/static/js/main.bf7082b8.js.map",
+    "main.030a196b.js.map": "/diewithsound/static/js/main.030a196b.js.map",
     "787.a735e30e.chunk.js.map": "/diewithsound/static/js/787.a735e30e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f5a825ce.css",
-    "static/js/main.bf7082b8.js"
+    "static/js/main.030a196b.js"
   ]
 }
