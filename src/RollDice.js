@@ -12,7 +12,7 @@ function RollDice({sides}) {
         rolling: false,
         totalScore: 4,
     });
-
+    
     const {die1, die2, rolling, totalScore} = state;
 
     const roll = () => {
