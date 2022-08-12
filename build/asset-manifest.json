@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/diewithsound/static/css/main.f5a825ce.css",
+    "main.js": "/diewithsound/static/js/main.bf7082b8.js",
+    "static/js/787.a735e30e.chunk.js": "/diewithsound/static/js/787.a735e30e.chunk.js",
+    "index.html": "/diewithsound/index.html",
+    "main.f5a825ce.css.map": "/diewithsound/static/css/main.f5a825ce.css.map",
+    "main.bf7082b8.js.map": "/diewithsound/static/js/main.bf7082b8.js.map",
+    "787.a735e30e.chunk.js.map": "/diewithsound/static/js/787.a735e30e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5a825ce.css",
+    "static/js/main.bf7082b8.js"
+  ]
+}
