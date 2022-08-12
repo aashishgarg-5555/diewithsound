@@ -2,6 +2,7 @@ import React , {useState} from 'react'
 import Die from './Die'
 import "./RollDice.css"
 import { Howl } from 'howler';
+import rattle from './audioclip/rattle.mp3'
 //http://cd.textfiles.com/itcontinues/WIN/YTB22/RATTLE2.WAV
 function RollDice({sides}) {
 
@@ -26,7 +27,7 @@ function RollDice({sides}) {
             totalScore: score1[0]+score2[0],
         })
         const sound = new Howl ({
-            src: ["http://cd.textfiles.com/itcontinues/WIN/YTB22/RATTLE2.WAV"],
+            src: [rattle],
             html5: true,
         });
         sound.play();
