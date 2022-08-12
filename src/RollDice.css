@@ -1,0 +1,24 @@
+.roll-dice{
+    background-color: rgba(45, 233, 27, 0.671);
+    height: 100vh;
+}
+
+.btn{
+    margin-top: 20px;
+    padding: 15px;
+    font-size: 2em;
+    background-color: lightblue;
+    color: darkblue;
+    font-weight: 1000;
+    border-radius: 20px;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: bisque;
+}
+
+h2{
+    font-size: 2.3em;
+    color: rgb(155, 26, 241);
+}
